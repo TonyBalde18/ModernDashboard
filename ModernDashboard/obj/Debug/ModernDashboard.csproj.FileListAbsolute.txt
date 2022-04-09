@@ -1,0 +1,158 @@
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\bin\Debug\ModernDashboard.exe.config
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\bin\Debug\ModernDashboard.exe
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\bin\Debug\ModernDashboard.pdb
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.csproj.AssemblyReference.cache
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\Styles.baml
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\MainWindow.g.cs
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\App.g.cs
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard_MarkupCompile.cache
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard_MarkupCompile.lref
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\App.baml
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\MainWindow.baml
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.g.resources
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.Properties.Resources.resources
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.csproj.GenerateResource.cache
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.exe
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.pdb
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\DesktopView.g.cs
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\DocumentView.g.cs
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\DownloadView.g.cs
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\HomeView.g.cs
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\MovieView.g.cs
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\MusicView.g.cs
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\PCView.g.cs
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\PictureView.g.cs
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\StartupView.g.cs
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\TrashView.g.cs
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\DataTemplates.baml
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\DesktopView.baml
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\DocumentView.baml
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\DownloadView.baml
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\HomeView.baml
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\MovieView.baml
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\MusicView.baml
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\PCView.baml
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\PictureView.baml
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\StartupView.baml
+C:\Users\Arun Enterprises\source\repos\ModernDashboard\ModernDashboard\obj\Debug\View\TrashView.baml
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\bin\Debug\ModernDashboard.exe.config
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\bin\Debug\ModernDashboard.exe
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\bin\Debug\ModernDashboard.pdb
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.csproj.AssemblyReference.cache
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\Styles.baml
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\MainWindow.g.cs
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\DesktopView.g.cs
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\DocumentView.g.cs
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\DownloadView.g.cs
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\HomeView.g.cs
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\MovieView.g.cs
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\MusicView.g.cs
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\PCView.g.cs
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\PictureView.g.cs
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\StartupView.g.cs
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\TrashView.g.cs
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\App.g.cs
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard_MarkupCompile.cache
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard_MarkupCompile.lref
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\App.baml
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\DataTemplates.baml
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\MainWindow.baml
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\DesktopView.baml
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\DocumentView.baml
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\DownloadView.baml
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\HomeView.baml
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\MovieView.baml
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\MusicView.baml
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\PCView.baml
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\PictureView.baml
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\StartupView.baml
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\View\TrashView.baml
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.g.resources
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.Properties.Resources.resources
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.csproj.GenerateResource.cache
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.exe
+C:\Users\Arun Enterprises\Desktop\Siource Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.pdb
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\bin\Debug\ModernDashboard.exe.config
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\bin\Debug\ModernDashboard.exe
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\bin\Debug\ModernDashboard.pdb
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.csproj.AssemblyReference.cache
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\Styles.baml
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\MainWindow.g.cs
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\DesktopView.g.cs
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\DocumentView.g.cs
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\DownloadView.g.cs
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\HomeView.g.cs
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\MovieView.g.cs
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\MusicView.g.cs
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\PCView.g.cs
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\PictureView.g.cs
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\StartupView.g.cs
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\TrashView.g.cs
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\App.g.cs
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard_MarkupCompile.cache
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard_MarkupCompile.lref
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\App.baml
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\DataTemplates.baml
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\MainWindow.baml
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\DesktopView.baml
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\DocumentView.baml
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\DownloadView.baml
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\HomeView.baml
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\MovieView.baml
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\MusicView.baml
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\PCView.baml
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\PictureView.baml
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\StartupView.baml
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\View\TrashView.baml
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.g.resources
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.Properties.Resources.resources
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.csproj.GenerateResource.cache
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.csproj.CoreCompileInputs.cache
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.exe
+C:\Users\tonyb\Downloads\WPF---MVVM-Based-Modern-Dashboard-main\WPF---MVVM-Based-Modern-Dashboard-main\Source Code\Source Code\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.pdb
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.csproj.AssemblyReference.cache
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\Styles.baml
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\MainWindow.g.cs
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\DesktopView.g.cs
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\DocumentView.g.cs
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\DownloadView.g.cs
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\HomeView.g.cs
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\MovieView.g.cs
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\MusicView.g.cs
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\PCView.g.cs
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\PictureView.g.cs
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\StartupView.g.cs
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\TrashView.g.cs
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\App.g.cs
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard_MarkupCompile.cache
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard_MarkupCompile.lref
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\App.baml
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\DataTemplates.baml
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\MainWindow.baml
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\DesktopView.baml
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\DocumentView.baml
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\DownloadView.baml
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\HomeView.baml
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\MovieView.baml
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\MusicView.baml
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\PCView.baml
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\PictureView.baml
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\StartupView.baml
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\View\TrashView.baml
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.g.resources
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.pdb
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\bin\Debug\ModernDashboard.exe.config
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\bin\Debug\ModernDashboard.exe
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\bin\Debug\ModernDashboard.pdb
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.Properties.Resources.resources
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.csproj.GenerateResource.cache
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.csproj.CoreCompileInputs.cache
+C:\Users\tonyb\OneDrive - Universidade da Beira Interior\Informática Web\Erasmus\Summer\Graphical User Interface Design\ModernDashboard\ModernDashboard\obj\Debug\ModernDashboard.exe
